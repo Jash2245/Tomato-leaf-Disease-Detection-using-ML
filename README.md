@@ -11,3 +11,4 @@ This repository contains the code and resources for a Plant Disease Detection pr
 - **Model Training**: Scripts for training machine learning models to recognize different plant diseases.
 - **Evaluation**: Tools for evaluating model performance and accuracy.
 - **Prediction**: Code for using the trained model to make predictions on new images.
+
