@@ -14,6 +14,6 @@ This repository contains the code and resources for a Plant Disease Detection pr
 
 # Contributors:
 - [Jeshwanth Panuganti](https://www.linkedin.com/in/panuganti-jeshwanth-84aa1324b/)
-- [Manaswi Bandari](https://www.linkedin.com/in/bandari-manaswi-616093250). 
--[Kalyan Krishna](21211a7241@bvrit.ac.in)
+- [Manaswi Bandari](https://www.linkedin.com/in/bandari-manaswi-616093250).  
+Kalyan Krishna
 
